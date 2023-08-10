@@ -1,2 +1,1 @@
 # Saran
-pkg update
